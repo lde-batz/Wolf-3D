@@ -1,1 +1,4 @@
 # Wolf-3D
+Wolfenstein 3D is a seminal game in the pantheon of early video games. Developed by Id Software by the über famous John Carmack and John Romero, published in 1992 by Apogee Software, Wolfenstein 3D is the first true “First Person Shooter” in the history of video games.
+Don’t let Wolfenstein 3D’s basic graphics and violent gameplay fool you! It is in fact a highly complex and advanced game. There is a reason why John Carmack is considered one of the world’s best coders.
+In this project you must follow in the footsteps of this brillant programmer and write your own version of Wolfenstein 3D... Hold on, we won’t ask you to re-write not the ENTIRE Wolfenstein 3D. One has to be be realistic here. Your mission will be to write, using the ray casting technique, a 3D representation of a maze in which a player can find his/her way.
